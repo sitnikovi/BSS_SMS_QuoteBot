@@ -13,7 +13,8 @@ BSS_SPAM_ID = "+17032913341"
 
 # Begin Heroku configuration - configured through environment variables.
 import os
-ACCOUNT_SID = os.environ['ACCOUNT_SID']
-AUTH_TOKEN = os.environ['AUTH_TOKEN']
-BSSSPAM_APP_SID = os.environ['BSSSPAM_APP_SID']
-BSS_SPAM_ID = os.environ['BSS_SPAM_ID']
+ACCOUNT_SID = "AC28c3408a01317458d00454bdcf3b8654"
+AUTH_TOKEN = "c64596c9f796b4f0f64c84ee1fd831ef"
+BSSSPAM_APP_SID = "AP24ea4157e3d8887ff607a2ed82fd237e"
+BSS_SPAM_ID = "+1 339-970-3249"
+
